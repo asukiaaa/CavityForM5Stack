@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:top_pcb-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -171,7 +171,7 @@ U 1 1 5CD7CD4A
 P 8100 2700
 F 0 "J3" H 8150 3617 50  0000 C CNN
 F 1 "free_holes" H 8150 3526 50  0000 C CNN
-F 2 "footprints:PinHeader_2x15_P2.54mm_Vertical_without_silks" H 8100 2700 50  0001 C CNN
+F 2 "footprints:PinHeader_1x30_P1.27mm_Vertical_without_silks" H 8100 2700 50  0001 C CNN
 F 3 "~" H 8100 2700 50  0001 C CNN
 	1    8100 2700
 	1    0    0    -1  

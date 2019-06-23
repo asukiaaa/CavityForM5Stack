@@ -1,8 +1,8 @@
-(module corner_edge (layer F.Cu) (tedit 5D0EE948)
+(module corner_edge1 (layer F.Cu) (tedit 5D0EE948)
   (fp_text reference REF** (at -3.9243 -2.4765) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value corner_edge (at -3.429 -1.4224) (layer F.Fab)
+  (fp_text value corner_edge1 (at -3.429 -1.4224) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8 0) (end -8 -0.6) (layer Edge.Cuts) (width 0.15))
