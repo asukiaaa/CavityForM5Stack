@@ -1,8 +1,11 @@
 M48
-;DRILL file {KiCad 5.0.2-bee76a0~70~ubuntu18.04.1} date 2019年06月01日 14時58分23秒
-;FORMAT={-:-/ absolute / metric / decimal}
+; DRILL file {KiCad 5.1.2-f72e74a~84~ubuntu18.04.1} date 2019年06月23日 16時21分09秒
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2019-06-23T16:21:09+09:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.1.2-f72e74a~84~ubuntu18.04.1
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
 FMAT,2
-METRIC,TZ
+METRIC
 T1C0.900
 T2C2.200
 T3C3.200
@@ -13,14 +16,14 @@ T1
 X144.074Y-61.03
 X144.074Y-88.97
 T2
-X143.Y-97.
-X143.Y-53.
-X107.Y-53.
-X107.Y-97.
+X143.0Y-53.0
+X143.0Y-97.0
+X107.0Y-97.0
+X107.0Y-53.0
 T3
-X147.Y-97.
-X147.Y-53.
-X103.Y-97.
-X103.Y-53.
+X147.0Y-97.0
+X103.0Y-97.0
+X103.0Y-53.0
+X147.0Y-53.0
 T0
 M30
