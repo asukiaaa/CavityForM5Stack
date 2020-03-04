@@ -1,0 +1,12 @@
+(module center_hole (layer F.Cu) (tedit 5D281CC2)
+  (fp_text reference REF** (at -0.0508 10.922) (layer Edge.Cuts) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value center_hole (at 0.127 -10.6934) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start 0 -9) (end 1 -9) (angle -180) (layer Edge.Cuts) (width 0.15))
+  (fp_arc (start 0 9) (end -1 9) (angle -180) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 1 9) (end 1 -9) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -1 -9) (end -1 9) (layer Edge.Cuts) (width 0.15))
+)
